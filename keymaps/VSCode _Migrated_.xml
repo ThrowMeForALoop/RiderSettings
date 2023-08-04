@@ -1,0 +1,11 @@
+<keymap version="1" name="VSCode (Migrated)" parent="VSCode OSX">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+</keymap>

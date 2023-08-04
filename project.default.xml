@@ -1,0 +1,18 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "ics"
+  }
+}]]></component>
+      <component name="WindowStateProjectService">
+        <state x="265" y="105" key="SettingsEditor" timestamp="1691132779165">
+          <screen x="0" y="38" width="1512" height="944" />
+        </state>
+        <state x="265" y="105" key="SettingsEditor/0.38.1512.944" timestamp="1691132779165" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
